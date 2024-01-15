@@ -1,0 +1,16 @@
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Database.dll.config
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Database.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Database.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Entities.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Entities.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.xml
+D:\MVC Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.AssemblyReference.cache
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.CoreCompileInputs.cache
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.CopyComplete
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.Migrations.initialized.resources
+D:\MVC Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.GenerateResource.cache
