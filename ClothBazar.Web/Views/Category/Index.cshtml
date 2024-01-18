@@ -1,0 +1,12 @@
+﻿@model List<ClothBazar.Entities.Category>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Available Categories</h2>
+
+@foreach(var category in Model)
+{
+    <label>@category.Name</label>
+}

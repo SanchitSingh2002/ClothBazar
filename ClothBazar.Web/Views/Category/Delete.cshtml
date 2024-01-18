@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Category</h2>
+
+<h2>Are you sure you want to delete this Category?</h2>
+<form method="post">
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <label>Name</label>
+    <input name="Name" value="@Model.Name" disabled />
+
+    <label>Description</label>
+    <input name="Description" value="@Model.Description" disabled />
+
+    <button type="submit">Yes Delete</button>
+</form>
+
+<a href="/Category/Index">Cancel</a>
+
+

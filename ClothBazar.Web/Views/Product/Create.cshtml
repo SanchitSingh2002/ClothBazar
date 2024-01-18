@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <title>Create Product</title>
+</head>
+<body>
+
+    <div class="container mt-4">
+        <h2>Create Product</h2>
+        <form id="createProduct">
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" class="form-control" name="Name" placeholder="Name of the Product">
+            </div>
+            <div class="form-group">
+                <label>Description</label>
+                <input type="text" class="form-control" name="Description" placeholder="Price of the Prouduct">
+            </div>
+
+            <div class="form-group">
+                <label>Price</label>
+                <input type="text" class="form-control" name="Price" placeholder="Enter the Price">
+            </div>
+
+            <button id="saveBtn" type="button" class="btn btn-primary">Create</button>
+        </form>
+    </div>
+
+    <script>
+        $("#saveBtn").click(function () {
+            $.ajax({
+                type: 'POST',
+                url: '/Product/Create',
+                data: $("#createProduct").serialize()
+            })
+                .done(function (response) {
+                    $("#tableContainer").html(response);
+                    $("#actionContainer").html("");
+                })
+                .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("FAIL");
+                });
+        });
+    </script>
+
+    </body>
+</html>
+
+

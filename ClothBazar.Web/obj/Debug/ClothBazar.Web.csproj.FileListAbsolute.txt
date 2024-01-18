@@ -77,3 +77,15 @@ D:\MVC Projects\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.csproj.CoreCo
 D:\MVC Projects\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.csproj.CopyComplete
 D:\MVC Projects\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.dll
 D:\MVC Projects\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Entities.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Entities.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Services.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Database.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\EntityFramework.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Services.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Services.dll.config
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Database.pdb
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\ClothBazar.Database.dll.config
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\EntityFramework.xml
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\EntityFramework.SqlServer.dll
+D:\MVC Projects\ClothBazar\ClothBazar.Web\bin\EntityFramework.SqlServer.xml
